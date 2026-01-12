@@ -234,6 +234,7 @@ header {
     justify-content: space-between;
     padding: 15px 0;
     border-bottom: 1px solid #ddd;
+    font-size: 12;
 }
 
 /* 6. 상세 페이지 전용 - 히어로 슬라이더 */
